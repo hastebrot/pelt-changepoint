@@ -1,1 +1,1 @@
-# pelt-library
+# pelt-changepoint
